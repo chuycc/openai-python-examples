@@ -5,10 +5,22 @@ Examples using official [OpenAI Python API library](https://github.com/openai/op
 
 Confirm:
 
-- [ ] Connection
+- [X] Connection
 - [ ] Personalization
 - [ ] Receive messages
 - [ ] Persuasive responses
+
+## Installation
+Install OpenAI Python API library 
+```sh
+pip install openai
+```
+
+Set **OPENAI_API_KEY** environment variable. Replace *your-api-key-here* with your actual OpenAI API key.
+```sh
+export OPENAI_API_KEY=your-api-key-here
+```
+
 
 ## References
 - [OpenAI Python API library](https://github.com/openai/openai-python)
