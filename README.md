@@ -1,6 +1,8 @@
 # openai-python-examples
 Examples using official [OpenAI Python API library](https://github.com/openai/openai-python)
 
+Use `quit`, `exit` or `bye` commands to end conversation on *conversation* and *persuasion* examples.
+
 ## Goals
 
 Confirm:
