@@ -7,7 +7,7 @@ Confirm:
 
 - [X] Connection
 - [X] Personalization
-- [ ] Receive messages
+- [X] Conversation
 - [ ] Persuasive responses
 
 ## Installation
