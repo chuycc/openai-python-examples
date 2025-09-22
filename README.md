@@ -8,7 +8,7 @@ Confirm:
 - [X] Connection
 - [X] Personalization
 - [X] Conversation
-- [ ] Persuasive responses
+- [X] Persuasion
 
 ## Installation
 Install OpenAI Python API library 
