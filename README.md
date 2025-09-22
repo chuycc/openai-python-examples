@@ -21,6 +21,15 @@ Set **OPENAI_API_KEY** environment variable. Replace *your-api-key-here* with yo
 export OPENAI_API_KEY=your-api-key-here
 ```
 
+## Important: Prototype Code Only
+These examples are quick prototypes designed to validate core assumptions and demonstrate key features. They are not production-ready and have several limitations:
+
+- Lack proper design patterns and architectural best practices
+- Missing comprehensive error handling and validation
+- No security considerations or performance optimizations
+- Limited testing and documentation
+
+Do not deploy this code to production environments. Use these examples as learning materials and starting points for properly architected solutions.
 
 ## References
 - [OpenAI Python API library](https://github.com/openai/openai-python)
