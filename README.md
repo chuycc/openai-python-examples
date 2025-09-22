@@ -6,7 +6,7 @@ Examples using official [OpenAI Python API library](https://github.com/openai/op
 Confirm:
 
 - [X] Connection
-- [ ] Personalization
+- [X] Personalization
 - [ ] Receive messages
 - [ ] Persuasive responses
 
